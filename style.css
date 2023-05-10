@@ -1,0 +1,20 @@
+.container{
+   
+    width: 20%;
+    height: 100vh;
+    float: left;   
+}
+.container-2{
+    
+    width: 20%;
+    height: 100vh;
+    margin: 0px 240px; 
+    
+}
+body{
+    background-image:url("https://enw7u145b8im9.x.pipedream.net/");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    /* background-position: center; */
+}
